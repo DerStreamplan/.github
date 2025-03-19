@@ -1,6 +1,6 @@
-# DerStreamPlan – Dein flexibler Streamplan-Dienst  
+# DerStreamplan – Dein flexibler Streamplan-Dienst  
 
-DerStreamPlan ist eine Open-Source-Plattform für kleinere Streamer, um ihre individuellen Streampläne einfach zu verwalten und zu teilen.  
+DerStreamplan ist eine Open-Source-Plattform für kleinere Streamer, um ihre individuellen Streampläne einfach zu verwalten und zu teilen.  
 
 🔹 **Flexible Planung** – Erstelle Wochenpläne mit groben Streaming-Zeiten, ohne dich auf feste Inhalte festzulegen.  
 🔹 **Spontanität bleibt** – Trage ein, wann du streamst, ohne exakt festlegen zu müssen, was gespielt wird – außer, wenn du es willst.  
